@@ -1,0 +1,13 @@
+==============================================
+Started: Wed 03/18/2026 14:17:41.48
+Computer: ITEST  User: iT Estella
+==============================================
+Cleaning: C:\Users\ITESTE~1\AppData\Local\Temp
+Cleaning: C:\Users\iT Estella\AppData\Local\Temp
+Cleaning: C:\WINDOWS\Temp
+Cleaning: C:\Users\iT Estella\AppData\Roaming\Microsoft\Windows\Recent
+Cleaning: C:\Users\iT Estella\AppData\Local\CrashDumps
+Cleaning: C:\WINDOWS\Minidump
+Cleaning: C:\ProgramData\Microsoft\Windows\WER
+Finished: Wed 03/18/2026 14:17:42.55
+Done.
